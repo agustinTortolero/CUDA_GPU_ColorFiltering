@@ -1,0 +1,11 @@
+﻿  BVDF_Filter_CPU.cpp
+d:\google drive\trabajo doctorado\visualstudionvidia2080rtx\multicoreexperimentos\multicoreexperimentos\multicoreexperimentos\bvdf_filter_cpu.cpp(75): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\google drive\trabajo doctorado\visualstudionvidia2080rtx\multicoreexperimentos\multicoreexperimentos\multicoreexperimentos\bvdf_filter_cpu.cpp(77): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\google drive\trabajo doctorado\visualstudionvidia2080rtx\multicoreexperimentos\multicoreexperimentos\multicoreexperimentos\bvdf_filter_cpu.cpp(31): warning C4101: 'posicion': unreferenced local variable
+d:\google drive\trabajo doctorado\visualstudionvidia2080rtx\multicoreexperimentos\multicoreexperimentos\multicoreexperimentos\bvdf_filter_cpu.cpp(32): warning C4101: 'vectG': unreferenced local variable
+d:\google drive\trabajo doctorado\visualstudionvidia2080rtx\multicoreexperimentos\multicoreexperimentos\multicoreexperimentos\bvdf_filter_cpu.cpp(35): warning C4101: 'pixeles': unreferenced local variable
+d:\google drive\trabajo doctorado\visualstudionvidia2080rtx\multicoreexperimentos\multicoreexperimentos\multicoreexperimentos\bvdf_filter_cpu.cpp(28): warning C4101: 'array1': unreferenced local variable
+d:\google drive\trabajo doctorado\visualstudionvidia2080rtx\multicoreexperimentos\multicoreexperimentos\multicoreexperimentos\bvdf_filter_cpu.cpp(32): warning C4101: 'vectB': unreferenced local variable
+d:\google drive\trabajo doctorado\visualstudionvidia2080rtx\multicoreexperimentos\multicoreexperimentos\multicoreexperimentos\bvdf_filter_cpu.cpp(32): warning C4101: 'vectR': unreferenced local variable
+d:\google drive\trabajo doctorado\visualstudionvidia2080rtx\multicoreexperimentos\multicoreexperimentos\multicoreexperimentos\bvdf_filter_cpu.cpp(24): warning C4715: 'compare': not all control paths return a value
+  MultiCoreExperimentos.vcxproj -> D:\Google Drive\Trabajo Doctorado\VisualStudioNvidia2080RTX\MultiCoreExperimentos\MultiCoreExperimentos\x64\Debug\MultiCoreExperimentos.exe
